@@ -1,5 +1,5 @@
 # https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org
-# 1:14:57
+# 1:31:52
 # puts "info" does a new line with console log print "info" does same line
 # characterName = "John"
 # characterAge = "35"
