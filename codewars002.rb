@@ -26,9 +26,31 @@
 # Pseudo Code
     # if the integer is even then return "Even" if odd return "Odd"
 
+# My answer using modulus and if else
 def even_or_odd (number)
     if number % 2 == 0
         return "Even"
     else 
         return "Odd"
+    end
+end
+
+# best practices and most clever
+# using ternary operator and a method .even? to check if it is even
+def even_or_odd(number)
+    number.even? ? "Even" : "Odd"
+end
+
+# Most Clever using array index and modulus
+def even_or_odd(number)
+    ['Even', 'Odd'][number % 2]
+end
+# ternary operator version of my answer with modulus
+def even_or_odd(number)
+    (number % 2 == 0) ? "Even" : "Odd"
+end
+
+# using ternary operator and .odd?
+def even_or_odd(number)
+    number.odd? ? "Odd" : "Even"
 end
