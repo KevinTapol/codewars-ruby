@@ -1,5 +1,5 @@
 # https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org
-# 1:31:52
+# 2:37:24
 # puts "info" does a new line with console log print "info" does same line
 # characterName = "John"
 # characterAge = "35"
@@ -110,9 +110,34 @@
 # puts states[:Pennsylvania]
 
 # Methods method block
-def sayhi
-    puts "Hello User"
-end
+# def sayhi
+#     puts "Hello User"
+# end
+ # call method
+# sayhi
 
-# call method
-sayhi
+# if
+# else if
+# else
+# end
+
+# case scenario
+
+# def getDayName(day)
+#     dayName = ""
+
+#     case day
+#     when "mon"
+#         dayName = "Monday"
+#     when "tue"
+#         dayName = "Tuesday"
+#     when "wed"
+#         dayName = "Wednesday"
+#     else 
+#     end
+# end
+
+# guessing game with while loop of 2 conditions to be met, if else for win and lose conditions declare user guest variable before looping then when in while loop set to gets.chomp() 
+
+# loops
+# for value in array
