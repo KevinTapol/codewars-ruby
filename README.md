@@ -9,11 +9,11 @@
         <p align="center">
           <img align="center" width="100%" src="./img/GitSquaresGreen2024.png"   alt="#"/>
         </p>
-        <!-- <p align="center">
-          <img align="center" width="100%" src="./img/XmasDailyPush.png"   alt="#"/>
-        </p> -->
         <p align="center">
           <img align="center" width="100%" src="./img/GitSquaresHalloween2023.png"   alt="#"/>
+        </p>
+                <p align="center">
+          <img align="center" width="70%" src="./img/XmasDailyPush.png"   alt="#"/>
         </p>
       </a>
       <br />
